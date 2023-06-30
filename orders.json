@@ -1,0 +1,45 @@
+{
+    "orderDetails": [
+        {
+            "ticketTypeId": 328863,
+            "quantity": 4,
+            "sections": [
+                {
+                    "sectionId": 59602,
+                    "quantity": 4,
+                    "isReserveSeating": true,
+                    "seats": [
+                        {
+                            "id": 3228561,
+                            "name": "27",
+                            "rowName": "K",
+                            "sectionName": "ZONE_A_Left",
+                            "status": null
+                        },
+                        {
+                            "id": 3228560,
+                            "name": "29",
+                            "rowName": "K",
+                            "sectionName": "ZONE_A_Left",
+                            "status": null
+                        },
+                        {
+                            "id": 3228559,
+                            "name": "31",
+                            "rowName": "K",
+                            "sectionName": "ZONE_A_Left",
+                            "status": null
+                        },
+                        {
+                            "id": 3228558,
+                            "name": "33",
+                            "rowName": "K",
+                            "sectionName": "ZONE_A_Left",
+                            "status": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

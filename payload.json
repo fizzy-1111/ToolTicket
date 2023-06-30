@@ -1,0 +1,45 @@
+{
+    "orderDetails": [
+        {
+            "ticketTypeId": 328888,
+            "quantity": 4,
+            "sections": [
+                {
+                    "sectionId": 59641,
+                    "quantity": 4,
+                    "isReserveSeating": true,
+                    "seats": [
+                        {
+                            "id": 3233027,
+                            "name": "7",
+                            "rowName": "IL",
+                            "sectionName": "VIP_Left",
+                            "status": null
+                        },
+                        {
+                            "id": 3233030,
+                            "name": "10",
+                            "rowName": "IL",
+                            "sectionName": "VIP_Left",
+                            "status": null
+                        },
+                        {
+                            "id": 3233022,
+                            "name": "2",
+                            "rowName": "IL",
+                            "sectionName": "VIP_Left",
+                            "status": null
+                        },
+                        {
+                            "id": 3233026,
+                            "name": "6",
+                            "rowName": "IL",
+                            "sectionName": "VIP_Left",
+                            "status": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
